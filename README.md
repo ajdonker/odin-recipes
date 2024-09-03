@@ -1,1 +1,2 @@
 # odin-recipes
+This project represents an attempt to review all parts of HTML and Git usage in The Odin Project's introductory course. By its successful ending, my skills in HTML tags would be proven by constructing a basic recipe website, which includes a main page that links to recipes. 
