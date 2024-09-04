@@ -1,0 +1,27 @@
+p{
+    background-color: aqua;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+}
+ol{
+    background-color: orange;
+    color: red;
+    font-weight: 500;
+
+}
+ul{
+    background-color: greenyellow;
+    color: blueviolet;
+    font-weight: 600;
+}
+/* chillilink{
+    color: red;
+    font-weight: 800;
+}
+lasagnalink{
+    color: orange;
+    font-weight: 800;
+    doesnt work like this
+} */
